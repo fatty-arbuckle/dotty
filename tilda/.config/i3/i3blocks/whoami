@@ -1,0 +1,5 @@
+#!/bin/bash
+un=$(whoami)
+hn=$(hostanme)
+
+echo "$un@$hn"
